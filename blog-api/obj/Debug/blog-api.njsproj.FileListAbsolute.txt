@@ -1,0 +1,2 @@
+D:\node\blog-api\blog-api\obj\Debug\blog-api.njsprojResolveAssemblyReference.cache
+D:\node\blog-api\blog-api\bin\Microsoft.NodejsTools.WebRole.dll
